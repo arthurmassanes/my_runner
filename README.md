@@ -7,6 +7,8 @@ All sprites and menu screen music made by myself.
 
 Game music by Eliot Primault
 
+_usage:_ ./my_runner \[map.txt\]
+
 ___
 
 ![Menu screen](https://github.com/arthurmassanes/my_runner/blob/master/img/menu_screenshot.png)
