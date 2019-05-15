@@ -11,4 +11,4 @@ ___
 
 ![Menu screen](https://github.com/arthurmassanes/my_runner/blob/master/img/menu_screenshot.png)
 ![In-game](https://github.com/arthurmassanes/my_runner/blob/master/img/game.png)
-![Game over](https://github.com/arthurmassanes/my_runner/blob/master/img/game_over_screen.png)
+![Game over](https://github.com/arthurmassanes/my_runner/blob/master/img/game_over_screenshot.png)
