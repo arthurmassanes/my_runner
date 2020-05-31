@@ -7,7 +7,10 @@ All sprites and menu screen music made by myself.
 
 Game music by Eliot Primault
 
-_usage:_ ./my_runner \[map.txt\]
+### dependencies: `gcc`, `make`, `csfml`
+### compilation: `make`
+
+_usage:_ `./my_runner \[map.txt\]`
 
 ___
 
